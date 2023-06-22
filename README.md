@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **sismamchowdhury@gmail.com**
 
-- ⚡ Fun fact **Passionate front-end dev crafting captivating user experiences with a touch of humor. Mastering HTML, CSS, JS to create clean, responsive interfaces that make users go "Wow" and "LOL" simultaneously. Inspired by design trends, I deliver stunning, efficient projects that will make your jaw drop and your funny bone tickle. Let's collaborate and build impactful digital solutions together, while sharing a good laugh along the way! 🚀😄**
+- ⚡ Fun fact **The term "bug" in the context of computer programming originated from an incident involving the Harvard Mark II computer in 1947. When the computer malfunctioned, the operators discovered that a moth had gotten stuck in one of the relays, causing the system to fail. The operators removed the moth and taped it to the computer's logbook, noting that they had "debugged" the system. This event led to the use of the term "bug" to refer to any kind of error or glitch in a computer program. So, the next time you encounter a bug in your code, remember that it has its origins in an actual insect!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
